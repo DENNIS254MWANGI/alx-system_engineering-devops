@@ -1,2 +1,2 @@
 #!/bin/bash
-vi -n 3 iacta
+vi -n 3 iacta | tail -n 1
